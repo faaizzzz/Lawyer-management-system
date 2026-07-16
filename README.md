@@ -292,29 +292,7 @@ http://localhost/Lawyer-Management-System
 
 ---
 
-# 📸 Screenshots
 
-- Home Page
-- User Dashboard
-- Lawyer Dashboard
-- Admin Dashboard
-- Lawyer Search
-- Lawyer Profile
-- Case Request Page
-
-(Add screenshots here.)
-
----
-
-# 👨‍💻 Author
-
-**Faaiz Shaikh**
-
-Bachelor of Engineering
-
-Artificial Intelligence & Data Science
-
----
 
 # 📄 License
 
